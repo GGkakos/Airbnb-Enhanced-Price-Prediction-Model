@@ -3,7 +3,7 @@
 
 # 1. Inputs
 
-This directory is missing since files' size 
+This directory is missing due to excessive files' size 
 
 To view and download the files used visit [Kaggle Website](
     Calendar and Listings Datasets 2020: (https://www.kaggle.com/code/labdmitriy/inside-airbnb-london/input)
