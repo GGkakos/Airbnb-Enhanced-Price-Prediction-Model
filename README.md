@@ -1,4 +1,4 @@
-# Enhanced Airbnb Price Prediction Using Machine Learning and NLP
+# Airbnb Price Prediction Framework
 
 
 # 1. Inputs
